@@ -1,0 +1,14 @@
+{
+  "name": "cpu-scheduling-visualiser",
+  "version": "1.0.0",
+  "description": "Application to visualize various CPU scheduling algorithms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amey Patil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
