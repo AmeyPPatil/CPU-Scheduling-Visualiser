@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+
+#algorithm-name {
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+
+#parameter-average {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    line-height: 200%;
+    margin-bottom: 20px;
+}
+
+table {
+    color: rgb(20, 162, 218);
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    margin: 20px 0;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid lightgrey;
+    text-align: left;
+}
+
+th {
+    background-color: whitesmoke;
+}
+
+tr:nth-child(even) {
+    background-color: whitesmoke;
+}
+
+tr:hover {
+    background-color: whitesmoke;
+}
